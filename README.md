@@ -13,15 +13,15 @@ Development at the speed of light
 
 ## Components
 
-- [NVIM](###NVIM)
-  - [Plugins](####Plugins)
-  - [Keymaps](####Keymaps)
-- [ZSH](###ZSH)
-- [TMUX](###TMUX)
+- [NVIM](##NVIM)
+  - [Plugins](###Plugins)
+  - [Keymaps](###Keymaps)
+- [ZSH](##ZSH)
+- [TMUX](##TMUX)
 
-### NVIM
+## NVIM
 
-####Plugins
+###Plugins
 
 These plugins work together to create a seamless experience where
 files are just a keystroke away, git is simplified, and NVIM loads at the speed of light
@@ -64,7 +64,7 @@ files are just a keystroke away, git is simplified, and NVIM loads at the speed 
 - szw/vim-g
 - hienvd/vim-stackoverflow
 
-#### Keymaps
+### Keymaps
 
 - ** Note: Leader is set as space(" ")**
 - ** Note 2: <C-blank> means control blank**
@@ -78,6 +78,6 @@ files are just a keystroke away, git is simplified, and NVIM loads at the speed 
   |<C-r>|Recursively Search files for matching patterns|
   |<C-b>|Search all buffers|
 
-### ZSH
+## ZSH
 
-### TMUX
+## TMUX
