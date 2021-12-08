@@ -4,7 +4,7 @@ Development at the speed of light
 
 ## Installation
 
-At present this install script only supports systems with OS's based on APT.
+At present this install script only supports systems with operating systems with support for APT.
 
 ```bash
   git clone <url> df;
