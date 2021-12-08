@@ -21,7 +21,7 @@ Development at the speed of light
 
 ## NVIM
 
-###Plugins
+### Plugins
 
 These plugins work together to create a seamless experience where
 files are just a keystroke away, git is simplified, and NVIM loads at the speed of light
