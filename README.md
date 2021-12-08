@@ -69,10 +69,10 @@ files are just a keystroke away, git is simplified, and NVIM loads at the speed 
 - **Note: Leader is set as space(" ")**
   |Command|Action|
   |-|-|
-  |<leader>gc|commit|
-  |<leader>gp|push|
-  |<leader>gP|pull|
-  |<leader>gl|git log|
+  |leader gc|commit|
+  |leader gp|push|
+  |leader gP|pull|
+  |leader gl|git log|
   |Ctrl p|Fuzzy find all files in project|
   |Ctrl r|Recursively Search files for matching patterns|
   |Ctrl b|Search all buffers|
