@@ -66,8 +66,8 @@ files are just a keystroke away, git is simplified, and NVIM loads at the speed 
 
 ### Keymaps
 
-- ** Note: Leader is set as space(" ")**
-- ** Note 2: <C-blank> means control blank**
+- **Note: Leader is set as space(" ")**
+- **Note 2: <C-blank> means control blank**
   |Command|Action|
   |-|-|
   |<leader>gc|commit|
