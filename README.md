@@ -13,11 +13,11 @@ Development at the speed of light
 
 ## Components
 
-- [NVIM](##NVIM)
-  - [Plugins](###Plugins)
-  - [Keymaps](###Keymaps)
-- [ZSH](##ZSH)
-- [TMUX](##TMUX)
+- [NVIM](#NVIM)
+  - [Plugins](##Plugins)
+  - [Keymaps](##Keymaps)
+- [ZSH](#ZSH)
+- [TMUX](#TMUX)
 
 ## NVIM
 
