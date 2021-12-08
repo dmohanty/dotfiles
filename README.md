@@ -13,7 +13,7 @@ Development at the speed of light
 
 ## Components
 
-- [NVIM](###Installation)
+- [NVIM](###NVIM)
   - [Plugins](####Plugins)
   - [Keymaps](####Keymaps)
 - [ZSH](###ZSH)
@@ -63,10 +63,11 @@ files are just a keystroke away, git is simplified, and NVIM loads at the speed 
 - rstacruz/vim-closer
 - szw/vim-g
 - hienvd/vim-stackoverflow
-  Keymaps:
 
-* ** Note: Leader is set as space(" ")**
-* ** Note 2: <C-blank> means control blank**
+#### Keymaps
+
+- ** Note: Leader is set as space(" ")**
+- ** Note 2: <C-blank> means control blank**
   |Command|Action|
   |-|-|
   |<leader>gc|commit|
