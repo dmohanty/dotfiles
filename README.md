@@ -67,16 +67,15 @@ files are just a keystroke away, git is simplified, and NVIM loads at the speed 
 ### Keymaps
 
 - **Note: Leader is set as space(" ")**
-- **Note 2: <C-blank> means control blank**
   |Command|Action|
   |-|-|
   |<leader>gc|commit|
   |<leader>gp|push|
   |<leader>gP|pull|
   |<leader>gl|git log|
-  |<C-p>|Fuzzy find all files in project|
-  |<C-r>|Recursively Search files for matching patterns|
-  |<C-b>|Search all buffers|
+  |Ctrl p|Fuzzy find all files in project|
+  |Ctrl r|Recursively Search files for matching patterns|
+  |Ctrl b|Search all buffers|
 
 ## ZSH
 
