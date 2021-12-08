@@ -31,7 +31,9 @@ files are just a keystroke away, git is simplified, and NVIM loads at the speed 
 - tpope/vim-fugitive
 - junegunn/gv.vim
 - airblade/vim-gitgutter
-  **COLORS**
+
+**COLORS**
+
 - frazrepo/vim-rainbow
 - rakr/vim-one
 - Aryansh-S/fastdark.vim
