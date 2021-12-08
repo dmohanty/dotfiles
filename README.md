@@ -35,27 +35,37 @@ files are just a keystroke away, git is simplified, and NVIM loads at the speed 
 - frazrepo/vim-rainbow
 - rakr/vim-one
 - Aryansh-S/fastdark.vim
-  **STATUS**
+
+**STATUS**
+
 - vim-airline/vim-airline
 - vim-airline/vim-airline-themes
-  **FORMAT**
+
+**FORMAT**
+
 - google/vim-codefmt
 - google/vim-maktaba
 - google/vim-glaive
-  **FILE EXPLORATION/PROJECT MANAGEMENT**
+
+**FILE EXPLORATION/PROJECT MANAGEMENT**
+
 - junegunn/fzf
 - junegunn/fzf.vim
 - preservim/nerdtree
 - gcmt/taboo.vim
 - mbbill/undotree
-  **LSP**
+
+**LSP**
+
 - neovim/nvim-lspconfig
 - hrsh7th/nvim-compe
 - nvim-lua/diagnostic-nvim
 - hrsh7th/vim-vsnip
 - hrsh7th/vim-vsnip-integ
 - github/copilot.vim
-  **MISC**
+
+**MISC**
+
 - rstacruz/sparkup
 - 907th/vim-auto-save
 - preservim/nerdcommenter
