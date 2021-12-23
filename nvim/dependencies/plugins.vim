@@ -1,4 +1,4 @@
-call plug#begin('~/.config/nvim/.plugins')
+call plug#begin('~/.config/nvim/dependencies/plugins')
 " GIT
 Plug 'tpope/vim-fugitive'
 Plug 'junegunn/gv.vim'
