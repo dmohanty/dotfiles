@@ -1,8 +1,9 @@
 # Move ZSH Config
 mv ~/.zshrc ~/.zshrc.bak
-cp conf-files/.zshrc ~/.zshrc
-# mv .config
-mv ~/.config ~/.config-bak
-cp conf-files/.config ~/.config
+mv conf-files/.zshrc ~/.zshrc
+# mv .config/nvim ~/.config/nvim.bak
+mv ~/.config/nvim ~/.config/nvim.bak
+mv ./nvim ~/.config
 # Move tmux config
-# TODO
+mv ~/.tmux.conf ~/.tmux.conf.bak
+mv conf-files/.tmux.conf ~/.tmux.conf
