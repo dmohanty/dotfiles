@@ -28,55 +28,44 @@ At present this install script only supports systems with operating systems with
 These plugins work together to create a seamless experience where
 files are just a keystroke away, git is simplified, and NVIM loads at the speed of light
 
-**GIT**
+tpope/vim-fugitive
+junegunn/gv.vim
+git@github.com:lewis6991/gitsigns.nvim.git
 
-- tpope/vim-fugitive
-- junegunn/gv.vim
-- airblade/vim-gitgutter
+frazrepo/vim-rainbow
+Aryansh-S/fastdark.vim
 
-**COLORS**
+vim-airline/vim-airline
+vim-airline/vim-airline-themes
 
-- frazrepo/vim-rainbow
-- rakr/vim-one
-- Aryansh-S/fastdark.vim
+junegunn/fzf
+junegunn/fzf.vim
 
-**STATUS**
+kyazdani42/nvim-web-devicons
+kyazdani42/nvim-tree.lua
 
-- vim-airline/vim-airline
-- vim-airline/vim-airline-themes
+mbbill/undotree
 
-**FORMAT**
+neovim/nvim-lspconfig
+nvim-lua/diagnostic-nvim
+hrsh7th/nvim-compe
+hrsh7th/vim-vsnip
+hrsh7th/vim-vsnip-integ
+github/copilot.vim
+simrat39/symbols-outline.nvim.git
+folke/trouble.nvim
+ldelossa/litee.nvim
 
-- google/vim-codefmt
-- google/vim-maktaba
-- google/vim-glaive
+google/vim-codefmt
+google/vim-maktaba
+google/vim-glaive
 
-**FILE EXPLORATION/PROJECT MANAGEMENT**
+iamcco/markdown-preview.nvim
 
-- junegunn/fzf
-- junegunn/fzf.vim
-- preservim/nerdtree
-- gcmt/taboo.vim
-- mbbill/undotree
-
-**LSP**
-
-- neovim/nvim-lspconfig
-- hrsh7th/nvim-compe
-- nvim-lua/diagnostic-nvim
-- hrsh7th/vim-vsnip
-- hrsh7th/vim-vsnip-integ
-- github/copilot.vim
-
-**MISC**
-
-- rstacruz/sparkup
-- 907th/vim-auto-save
-- preservim/nerdcommenter
-- voldikss/vim-floaterm
-- rstacruz/vim-closer
-- szw/vim-g
-- hienvd/vim-stackoverflow
+907th/vim-auto-save
+preservim/nerdcommenter
+nvim-lua/plenary.nvim
+voldikss/vim-floaterm
 
 ### Keymaps
 
